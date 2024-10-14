@@ -1,5 +1,19 @@
 # @electric-sql/pglite-repl
 
+## 0.2.13
+
+### Patch Changes
+
+- 3d8efbb: Bump dependencies to address Dependabot alerts
+- Updated dependencies [5e39036]
+- Updated dependencies [3d8efbb]
+- Updated dependencies [16d2296]
+- Updated dependencies [cf50f47]
+- Updated dependencies [5e39036]
+- Updated dependencies [16d2296]
+  - @electric-sql/pglite@0.2.13
+  - @electric-sql/pglite-react@0.2.13
+
 ## 0.2.12
 
 ### Patch Changes
